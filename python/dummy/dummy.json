@@ -1,0 +1,9 @@
+{
+  "name": "Zia",
+  "age": 1,
+  "favorite_foods": ["tuna", "chicken"],
+  "best_friend": {
+    "name": "Wiesje",
+    "age": 7
+  }
+}
